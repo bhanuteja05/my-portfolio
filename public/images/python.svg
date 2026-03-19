@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="98" fill="#306998"/>
+  <text x="100" y="75" fill="#FFD43B" font-family="Arial, sans-serif" font-size="80" font-weight="bold" text-anchor="middle">Py</text>
+  <text x="100" y="145" fill="#fff" font-family="Arial, sans-serif" font-size="36" text-anchor="middle">thon</text>
+</svg>

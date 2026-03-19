@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="98" fill="#2d3436"/>
+  <text x="100" y="80" fill="#4EAA25" font-family="monospace" font-size="20" text-anchor="middle">#!/bin/</text>
+  <text x="100" y="120" fill="#4EAA25" font-family="monospace" font-size="40" font-weight="bold" text-anchor="middle">bash</text>
+  <text x="100" y="155" fill="#4EAA25" font-family="monospace" font-size="18" text-anchor="middle">$_</text>
+</svg>
