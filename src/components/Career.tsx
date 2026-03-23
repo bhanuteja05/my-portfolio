@@ -12,6 +12,24 @@ const educationData = [
       "Pursuing B.Tech in CSE with focus on cybersecurity, networking, and ethical hacking. Actively participating in CTF competitions and cybersecurity research.",
     icon: <FaGraduationCap />,
   },
+  {
+    title: "Intermediate (Class 12th)",
+    institution: "[Your Intermediate College Name]",
+    location: "[Location]",
+    date: "2021 – 2023",
+    description:
+      "Completed higher secondary education with a focus on Mathematics, Physics, and Chemistry.",
+    icon: <FaGraduationCap />,
+  },
+  {
+    title: "10th Class (SSC)",
+    institution: "[Your School Name]",
+    location: "[Location]",
+    date: "2020 – 2021",
+    description:
+      "Completed secondary education with a strong foundation in core subjects.",
+    icon: <FaGraduationCap />,
+  },
 ];
 
 const certificationsData = [
