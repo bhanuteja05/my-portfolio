@@ -4,30 +4,30 @@ import "./styles/Career.css";
 
 const educationData = [
   {
-    title: "B.Tech – Computer Science & Engineering",
+    title: "Bachelor of Technology – Computer Science & Engineering",
     institution: "Lovely Professional University",
     location: "Phagwara, Punjab",
-    date: "2023 – Present",
+    date: "Aug’ 23 – Present",
     description:
       "Pursuing B.Tech in CSE with focus on cybersecurity, networking, and ethical hacking. Actively participating in CTF competitions and cybersecurity research.",
     icon: <FaGraduationCap />,
   },
   {
-    title: "Intermediate (Class 12th)",
-    institution: "[Your Intermediate College Name]",
-    location: "[Location]",
-    date: "2021 – 2023",
+    title: "Intermediate",
+    institution: "Narayana Junior College",
+    location: "Hyderabad, Telangana",
+    date: "Aug’ 21 – Jul’ 23",
     description:
-      "Completed higher secondary education with a focus on Mathematics, Physics, and Chemistry.",
+      "Percentage: 96",
     icon: <FaGraduationCap />,
   },
   {
-    title: "10th Class (SSC)",
-    institution: "[Your School Name]",
-    location: "[Location]",
-    date: "2020 – 2021",
+    title: "Matriculation",
+    institution: "Jaya High School",
+    location: "Suryapet, Telangana",
+    date: "Jul’ 20 – Jun’ 21",
     description:
-      "Completed secondary education with a strong foundation in core subjects.",
+      "Completed secondary education.",
     icon: <FaGraduationCap />,
   },
 ];
